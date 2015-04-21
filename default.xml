@@ -16,7 +16,7 @@
     <project path="com.endpoint.lg.earth.viewsync"     name="com.endpoint.lg.earth.viewsync.git"    />
     <project path="com.endpoint.lg.evdev.demuxer"      name="com.endpoint.lg.evdev.demuxer.git"     />
     <project path="com.endpoint.lg.evdev.reader"       name="com.endpoint.lg.evdev.reader.git"      />
-    <project path="com.endpoint.lg.evdev.uinput"       name="com.endpoint.lg.evdev.uinput.git"      />
+    <project path="com.endpoint.lg.evdev.writer"       name="com.endpoint.lg.evdev.writer.git"      />
     <project path="com.endpoint.lg.leap.reader"        name="com.endpoint.lg.leap.reader.git"       />
     <project path="com.endpoint.lg.maxbotix.reader"    name="com.endpoint.lg.maxbotix.reader.git"   />
     <project path="com.endpoint.lg.media.service"      name="com.endpoint.lg.media.service.git"     />
