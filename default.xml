@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote  name="github"
-             fetch="git@github.com:EndPointCorp/"
-             review="git@github.com:EndPointCorp/" />
+             fetch="ssh://git@github.com/EndPointCorp/"
+             review="ssh://git@github.com/EndPointCorp/" />
     <default revision="master"
              remote="github"
              sync-j="4" />
