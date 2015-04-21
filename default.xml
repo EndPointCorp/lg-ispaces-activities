@@ -6,22 +6,22 @@
     <default revision="master"
              remote="github"
              sync-j="4" />
-    <project path="activity-resources"                 name="activity-resources"                />
-    <project path="com.endpoint.lg.browser.service"    name="com.endpoint.lg.browser.service"   />
-    <project path="com.endpoint.lg.browser.static"     name="com.endpoint.lg.browser.static"    />
-    <project path="com.endpoint.lg.cmsctl"             name="com.endpoint.lg.cmsctl"            />
-    <project path="com.endpoint.lg.earth.client"       name="com.endpoint.lg.earth.client"      />
-    <project path="com.endpoint.lg.earth.kmlsync"      name="com.endpoint.lg.earth.kmlsync"     />
-    <project path="com.endpoint.lg.earth.query"        name="com.endpoint.lg.earth.query"       />
-    <project path="com.endpoint.lg.earth.viewsync"     name="com.endpoint.lg.earth.viewsync"    />
-    <project path="com.endpoint.lg.evdev.demuxer"      name="com.endpoint.lg.evdev.demuxer"     />
-    <project path="com.endpoint.lg.evdev.reader"       name="com.endpoint.lg.evdev.reader"      />
-    <project path="com.endpoint.lg.evdev.uinput"       name="com.endpoint.lg.evdev.uinput"      />
-    <project path="com.endpoint.lg.leap.reader"        name="com.endpoint.lg.leap.reader"       />
-    <project path="com.endpoint.lg.maxbotix.reader"    name="com.endpoint.lg.maxbotix.reader"   />
-    <project path="com.endpoint.lg.media.service"      name="com.endpoint.lg.media.service"     />
-    <project path="com.endpoint.lg.onboard"            name="com.endpoint.lg.onboard"           />
-    <project path="com.endpoint.lg.streetview.master"  name="com.endpoint.lg.streetview.master" />
-    <project path="com.endpoint.lg.streetview.pano"    name="com.endpoint.lg.streetview.pano"   />
-    <project path="com.endpoint.lg.support"            name="com.endpoint.lg.support"           />
+    <project path="activity-resources"                 name="activity-resources.git"                />
+    <project path="com.endpoint.lg.browser.service"    name="com.endpoint.lg.browser.service.git"   />
+    <project path="com.endpoint.lg.browser.static"     name="com.endpoint.lg.browser.static.git"    />
+    <project path="com.endpoint.lg.cmsctl"             name="com.endpoint.lg.cmsctl.git"            />
+    <project path="com.endpoint.lg.earth.client"       name="com.endpoint.lg.earth.client.git"      />
+    <project path="com.endpoint.lg.earth.kmlsync"      name="com.endpoint.lg.earth.kmlsync.git"     />
+    <project path="com.endpoint.lg.earth.query"        name="com.endpoint.lg.earth.query.git"       />
+    <project path="com.endpoint.lg.earth.viewsync"     name="com.endpoint.lg.earth.viewsync.git"    />
+    <project path="com.endpoint.lg.evdev.demuxer"      name="com.endpoint.lg.evdev.demuxer.git"     />
+    <project path="com.endpoint.lg.evdev.reader"       name="com.endpoint.lg.evdev.reader.git"      />
+    <project path="com.endpoint.lg.evdev.uinput"       name="com.endpoint.lg.evdev.uinput.git"      />
+    <project path="com.endpoint.lg.leap.reader"        name="com.endpoint.lg.leap.reader.git"       />
+    <project path="com.endpoint.lg.maxbotix.reader"    name="com.endpoint.lg.maxbotix.reader.git"   />
+    <project path="com.endpoint.lg.media.service"      name="com.endpoint.lg.media.service.git"     />
+    <project path="com.endpoint.lg.onboard"            name="com.endpoint.lg.onboard.git"           />
+    <project path="com.endpoint.lg.streetview.master"  name="com.endpoint.lg.streetview.master.git" />
+    <project path="com.endpoint.lg.streetview.pano"    name="com.endpoint.lg.streetview.pano.git"   />
+    <project path="com.endpoint.lg.support"            name="com.endpoint.lg.support.git"           />
 </manifest>
