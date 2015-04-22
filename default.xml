@@ -24,4 +24,5 @@
     <project path="com.endpoint.lg.streetview.master"  name="com.endpoint.lg.streetview.master.git" />
     <project path="com.endpoint.lg.streetview.pano"    name="com.endpoint.lg.streetview.pano.git"   />
     <project path="com.endpoint.lg.support"            name="com.endpoint.lg.support.git"           />
+    <project path="com.endpoint.lg.webctl"             name="com.endpoint.lg.webctl.git"            />
 </manifest>
