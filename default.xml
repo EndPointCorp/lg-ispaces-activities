@@ -22,6 +22,7 @@
     <project path="com.endpoint.lg.maxbotix.reader"    name="com.endpoint.lg.maxbotix.reader.git"   />
     <project path="com.endpoint.lg.media.service"      name="com.endpoint.lg.media.service.git"     />
     <project path="com.endpoint.lg.panoviewer"         name="com.endpoint.lg.panoviewer.git"        />
+    <project path="com.endpoint.lg.panoviewer.master"  name="com.endpoint.lg.panoviewer.master.git" />
     <project path="com.endpoint.lg.onboard"            name="com.endpoint.lg.onboard.git"           />
     <project path="com.endpoint.lg.streetview.master"  name="com.endpoint.lg.streetview.master.git" />
     <project path="com.endpoint.lg.streetview.pano"    name="com.endpoint.lg.streetview.pano.git"   />
